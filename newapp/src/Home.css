@@ -1,0 +1,32 @@
+
+section{
+    width: 100%;
+    height: 100vh;
+    background-repeat:no-repeat;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-size: cover;
+}
+.continer2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    display: flex;
+}
+.totaltime{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.time{
+    font-weight: bold;
+    color: blue;
+}
+
+section h1{
+    text-transform: capitalize;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 20px;
+}
